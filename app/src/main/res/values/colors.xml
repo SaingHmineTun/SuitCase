@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="et_hint">#96ffffff</color>
+
+    <color name="textInputLayout">#000000</color>
+    <color name="bg_color">#26211D</color>
+    <color name="icon_color">#333</color>
+    <color name="status_bar_color">#FDE7E5</color>
+</resources>
